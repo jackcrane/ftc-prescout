@@ -1,0 +1,22 @@
+{
+  "name": "ftc-prescout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4",
+    "markdown-pdf": "^11.0.0",
+    "md-to-pdf": "^5.2.1",
+    "node-fetch": "^3.3.0",
+    "ora": "^6.1.2"
+  }
+}
